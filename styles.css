@@ -39,10 +39,10 @@ main {
 } 
 
 .enter-button {
-  font-size: 50px;
+  font-size: 45px;
   padding: 10px 20px;
   text-decoration: none;
-  color: rgb(79, 29, 207);
+  color: burlywood;
   background-color: transparent;
   border: none;
   border-radius: 4px;
