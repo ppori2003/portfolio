@@ -52,6 +52,11 @@ main {
 
 }
 
+.enter-button:hover {
+  transform: scale(1.1);
+
+}
+
 .home-container {
   text-align: center;
   margin-top: 20%;
