@@ -49,8 +49,9 @@ main {
   border-radius: 4px;
   transition: transform 0.3s ease;
   transform: scale(1.2);
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
 }
+
 
 
 .enter-button:hover {
